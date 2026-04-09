@@ -3,7 +3,7 @@ name: 部署免费节点抓取工具到GitHub Pages
 on:
   # 自动执行的时间，北京时间00:30运行
   schedule:
-    - cron: '30 16 * * *'
+    - cron: '40 23 * * *'
   
   # 当push到main分支时也执行
   push:
